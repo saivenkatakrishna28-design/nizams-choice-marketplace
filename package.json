@@ -1,0 +1,14 @@
+{
+  "name": "nizams-choice-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utils.js",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
